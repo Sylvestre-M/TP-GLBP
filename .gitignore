@@ -1,0 +1,37 @@
+# Linux
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Packet Tracer
+*.pkt.bak
+
+# GNS3 / EVE-NG
+*.unl.lock
+*.nvram
+
+# Cisco IOS backups
+*.old
+*.backup
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Python cache (si tu ajoutes des scripts)
+__pycache__/
+*.pyc
+
+# Local environment
+.env
